@@ -1,9 +1,6 @@
 ### Olá, eu sou o Victor Mota👋
 
-
-- 🔭 Atualmente sem trabalho na área
-- 🌱 Iniciando curso em Ciência da Computação
-
+Com interesse em tecnologia desde jovem, estou animado para ampliar meus conhecimentos teóricos e habilidades práticas adquirindo mais experiencia ao longo da minha jornada na universidade. Estou dedicado a me manter atualizado com as últimas tendências e tecnologias e comprometido em me tornar um profissional de sucesso na área de tecnologia da informação.
 
 
 
